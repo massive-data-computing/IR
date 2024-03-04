@@ -23,7 +23,7 @@
 #### WEEK 1
 - Chapter 1. Boolean Retrieval
   - 외부 강의자료 링크: <https://www.cis.lmu.de/~hs/teach/14s/ir/pdf/01intro.flat.pdf>
-  - 추가 강의자료:
+  - 추가 강의자료: <https://github.com/massive-data-computing/IR/blob/main/%EC%A0%95%EB%B3%B4%EA%B2%80%EC%83%89W1.pptx>
   
 #### WEEK 2
 - Chapter 2. The term vocabulary and postings lists
